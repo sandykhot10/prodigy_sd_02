@@ -1,1 +1,1 @@
-# prodigy_sd_02
+For Task Two of the Prodigy Infotech internship, I developed a console-based number guessing game in C++. The goal of the game is to randomly generate a number between 1 and 10, which the user must guess.
